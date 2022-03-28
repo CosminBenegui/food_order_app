@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 
-import MealsSummary from './HelpersMeal/MealsSummary/MealsSummary';
-import AvailableMeals from './HelpersMeal/AvailableMeals/AvailableMeals';
+import MealsSummary from './MealsSummary/MealsSummary';
+import AvailableMeals from './AvailableMeals/AvailableMeals';
 
 function Meals() {
     return ( 
